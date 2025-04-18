@@ -1,0 +1,15 @@
+/home/owenandronicusmartin/Projects/Books/a-common-sense-guide-to-data-structures-and-algorithms/chapter-02/01-linear-search/C#/linear-search/obj/Debug/net8.0/linear-search.GeneratedMSBuildEditorConfig.editorconfig
+/home/owenandronicusmartin/Projects/Books/a-common-sense-guide-to-data-structures-and-algorithms/chapter-02/01-linear-search/C#/linear-search/obj/Debug/net8.0/linear-search.AssemblyInfoInputs.cache
+/home/owenandronicusmartin/Projects/Books/a-common-sense-guide-to-data-structures-and-algorithms/chapter-02/01-linear-search/C#/linear-search/obj/Debug/net8.0/linear-search.AssemblyInfo.cs
+/home/owenandronicusmartin/Projects/Books/a-common-sense-guide-to-data-structures-and-algorithms/chapter-02/01-linear-search/C#/linear-search/obj/Debug/net8.0/linear-search.csproj.CoreCompileInputs.cache
+/home/owenandronicusmartin/Projects/Books/a-common-sense-guide-to-data-structures-and-algorithms/chapter-02/01-linear-search/C#/linear-search/obj/Debug/net8.0/linear-search.sourcelink.json
+/home/owenandronicusmartin/Projects/Books/a-common-sense-guide-to-data-structures-and-algorithms/chapter-02/01-linear-search/C#/linear-search/bin/Debug/net8.0/linear-search
+/home/owenandronicusmartin/Projects/Books/a-common-sense-guide-to-data-structures-and-algorithms/chapter-02/01-linear-search/C#/linear-search/bin/Debug/net8.0/linear-search.deps.json
+/home/owenandronicusmartin/Projects/Books/a-common-sense-guide-to-data-structures-and-algorithms/chapter-02/01-linear-search/C#/linear-search/bin/Debug/net8.0/linear-search.runtimeconfig.json
+/home/owenandronicusmartin/Projects/Books/a-common-sense-guide-to-data-structures-and-algorithms/chapter-02/01-linear-search/C#/linear-search/bin/Debug/net8.0/linear-search.dll
+/home/owenandronicusmartin/Projects/Books/a-common-sense-guide-to-data-structures-and-algorithms/chapter-02/01-linear-search/C#/linear-search/bin/Debug/net8.0/linear-search.pdb
+/home/owenandronicusmartin/Projects/Books/a-common-sense-guide-to-data-structures-and-algorithms/chapter-02/01-linear-search/C#/linear-search/obj/Debug/net8.0/linear-search.dll
+/home/owenandronicusmartin/Projects/Books/a-common-sense-guide-to-data-structures-and-algorithms/chapter-02/01-linear-search/C#/linear-search/obj/Debug/net8.0/refint/linear-search.dll
+/home/owenandronicusmartin/Projects/Books/a-common-sense-guide-to-data-structures-and-algorithms/chapter-02/01-linear-search/C#/linear-search/obj/Debug/net8.0/linear-search.pdb
+/home/owenandronicusmartin/Projects/Books/a-common-sense-guide-to-data-structures-and-algorithms/chapter-02/01-linear-search/C#/linear-search/obj/Debug/net8.0/linear-search.genruntimeconfig.cache
+/home/owenandronicusmartin/Projects/Books/a-common-sense-guide-to-data-structures-and-algorithms/chapter-02/01-linear-search/C#/linear-search/obj/Debug/net8.0/ref/linear-search.dll
